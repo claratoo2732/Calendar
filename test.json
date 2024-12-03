@@ -2,7 +2,7 @@
   "Date" : "2024-12-03 00:00:00",
   "Product" : "Full Special Exhibition Package",
   "URL" : "https://store.mopop.org/tickets/39990",
-  "Adult" : "$27.75 - $28.75"
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-03 00:00:00",
   "Product" : "Museum + Haring",
@@ -12,299 +12,519 @@
   "Date" : "2024-12-03 00:00:00",
   "Product" : "Museum + Asian Comics",
   "URL" : "https://store.mopop.org/tickets/39990",
-  "Adult" : "$27.75 - $28.75"
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-03 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/packages/fixed/39992",
-  "Adult" : "$34.75 - $35.75"
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-04 00:00:00",
   "Product" : "Museum Closed"
 }, {
   "Date" : "2024-12-05 00:00:00",
-  "Product" : "Museum + Haring + Asian Comics",
-  "URL" : "https://store.mopop.org/tickets/39996",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-05 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-05 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-05 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
   "Adult" : "$26.75 - $27.75"
 }, {
-  "Date" : "2024-12-05 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/39998",
-  "Adult" : "$33.75 - $34.75"
+  "Date" : "2024-12-06 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
-  "Date" : "2024-12-05 00:00:00",
+  "Date" : "2024-12-06 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-06 00:00:00",
   "Product" : "Museum + Asian Comics",
-  "URL" : "https://store.mopop.org/tickets/39996",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-06 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
   "Adult" : "$26.75 - $27.75"
 }, {
-  "Date" : "2024-12-05 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/packages/fixed/39998",
-  "Adult" : "$33.75 - $34.75"
-}, {
-  "Date" : "2024-12-06 00:00:00",
-  "Product" : "Museum + Haring + Asian Comics",
-  "URL" : "https://store.mopop.org/tickets/39999",
-  "Adult" : "$28.00 - $29.00"
-}, {
-  "Date" : "2024-12-06 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40001",
-  "Adult" : "$35.00 - $36.00"
-}, {
-  "Date" : "2024-12-06 00:00:00",
-  "Product" : "Museum + Asian Comics",
-  "URL" : "https://store.mopop.org/tickets/39999",
-  "Adult" : "$28.00 - $29.00"
-}, {
-  "Date" : "2024-12-06 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/packages/fixed/40001",
-  "Adult" : "$35.00 - $36.00"
-}, {
   "Date" : "2024-12-07 00:00:00",
-  "Product" : "Museum + Haring + Asian Comics",
-  "URL" : "https://store.mopop.org/tickets/40002",
-  "Adult" : "$28.00 - $28.75"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-07 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40004",
-  "Adult" : "$35.00 - $35.75"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-07 00:00:00",
   "Product" : "Museum + Asian Comics",
-  "URL" : "https://store.mopop.org/tickets/40002",
-  "Adult" : "$28.00 - $28.75"
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-07 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/packages/fixed/40004",
-  "Adult" : "$35.00 - $35.75"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+}, {
+  "Date" : "2024-12-08 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-08 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-08 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-08 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40005",
-  "Adult" : "$26.25 - $27.25"
-}, {
-  "Date" : "2024-12-08 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40007",
-  "Adult" : "$33.25 - $34.25"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-09 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40008",
-  "Adult" : "$25.75 - $26.50"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-09 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40010",
-  "Adult" : "$32.75 - $33.50"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-09 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-09 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-10 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40011",
-  "Adult" : "$26.25 - $27.00"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-10 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40013",
-  "Adult" : "$33.25 - $34.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-10 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-10 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-11 00:00:00",
   "Product" : "Museum Closed"
 }, {
   "Date" : "2024-12-12 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40017",
-  "Adult" : "$26.50 - $27.25"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-12 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40019",
-  "Adult" : "$33.50 - $34.25"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-12 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-12 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+}, {
+  "Date" : "2024-12-13 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-13 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-13 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-13 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40020",
-  "Adult" : "$28.00 - $28.75"
-}, {
-  "Date" : "2024-12-13 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40022",
-  "Adult" : "$35.00 - $35.75"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-14 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40023",
-  "Adult" : "$27.75 - $28.50"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-14 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40025",
-  "Adult" : "$34.75 - $35.50"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-14 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-14 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+}, {
+  "Date" : "2024-12-15 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-15 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-15 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-15 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40026",
-  "Adult" : "$26.50 - $27.25"
-}, {
-  "Date" : "2024-12-15 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40028",
-  "Adult" : "$33.50 - $34.25"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-16 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40029",
-  "Adult" : "$26.25 - $27.00"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-16 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40031",
-  "Adult" : "$33.25 - $34.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-16 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-16 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+}, {
+  "Date" : "2024-12-17 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-17 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-17 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-17 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40032",
-  "Adult" : "$26.25 - $27.00"
-}, {
-  "Date" : "2024-12-17 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40034",
-  "Adult" : "$33.25 - $34.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-18 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40035",
-  "Adult" : "$25.00"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-18 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40037",
-  "Adult" : "$32.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-18 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-18 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+}, {
+  "Date" : "2024-12-19 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-19 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-19 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-19 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40038",
-  "Adult" : "$26.50 - $27.25"
-}, {
-  "Date" : "2024-12-19 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40040",
-  "Adult" : "$33.50 - $34.25"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-20 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40041",
-  "Adult" : "$27.50 - $28.25"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-20 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40043",
-  "Adult" : "$34.50 - $35.25"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-20 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-20 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+}, {
+  "Date" : "2024-12-21 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-21 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-21 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-21 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40044",
-  "Adult" : "$28.25 - $29.00"
-}, {
-  "Date" : "2024-12-21 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40046",
-  "Adult" : "$35.25 - $36.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-22 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40047",
-  "Adult" : "$28.25 - $29.00"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-22 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40049",
-  "Adult" : "$35.25 - $36.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-22 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-22 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-23 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40050",
-  "Adult" : "$28.25 - $29.00"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-23 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40052",
-  "Adult" : "$35.25 - $36.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
 }, {
-  "Date" : "2024-12-24 00:00:00",
+  "Date" : "2024-12-23 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-23 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40053",
-  "Adult" : "$28.25 - $29.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+},{
+  "Date" : "2024-12-23 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-24 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40055",
-  "Adult" : "$35.25 - $36.00"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
 }, {
+  "Date" : "2024-12-24 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-24 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+},{
   "Date" : "2024-12-25 00:00:00",
   "Product" : "Museum Closed"
 }, {
   "Date" : "2024-12-26 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40059",
-  "Adult" : "$28.50 - $29.25"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-26 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40061",
-  "Adult" : "$35.50 - $36.25"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-26 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-26 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+},{
+  "Date" : "2024-12-27 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-27 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-27 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-27 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40062",
-  "Adult" : "$28.50 - $29.25"
-}, {
-  "Date" : "2024-12-27 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40064",
-  "Adult" : "$35.50 - $36.25"
-}, {
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+},{
   "Date" : "2024-12-28 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40065",
-  "Adult" : "$28.50 - $29.25"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-28 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40067",
-  "Adult" : "$35.50 - $36.25"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-28 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-28 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+},{
+  "Date" : "2024-12-29 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
+  "Date" : "2024-12-29 00:00:00",
+  "Product" : "Museum + Haring",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-29 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
 }, {
   "Date" : "2024-12-29 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40068",
-  "Adult" : "$28.00 - $28.75"
-}, {
-  "Date" : "2024-12-29 00:00:00",
-  "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40070",
-  "Adult" : "$35.00 - $35.75"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
 }, {
   "Date" : "2024-12-30 00:00:00",
-  "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40071",
-  "Adult" : "$28.00 - $28.75"
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-30 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40073",
-  "Adult" : "$35.00 - $35.75"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
 }, {
-  "Date" : "2024-12-31 00:00:00",
+  "Date" : "2024-12-30 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-30 00:00:00",
   "Product" : "General Admission",
-  "URL" : "https://store.mopop.org/tickets/40074",
-  "Adult" : "$28.00 - $28.75"
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+},{
+  "Date" : "2024-12-31 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
 }, {
   "Date" : "2024-12-31 00:00:00",
   "Product" : "Museum + Haring",
-  "URL" : "https://store.mopop.org/packages/fixed/40076",
-  "Adult" : "$35.00 - $35.75"
-} ]
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-31 00:00:00",
+  "Product" : "Museum + Asian Comics",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$34.75 - $35.75"
+}, {
+  "Date" : "2024-12-31 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/packages/fixed/39992",
+  "Adult" : "$26.75 - $27.75"
+}, ]
