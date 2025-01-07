@@ -348,7 +348,7 @@
   "URL" : "https://store.mopop.org/packages/fixed/39992",
   "Adult" : "$26.75 - $27.75"
 },{
-  "Date" : "2025-1-23 00:00:00",
+  "Date" : "2025-1-24 00:00:00",
   "Product" : "Full Special Exhibition Package",
   "URL" : "https://store.mopop.org/tickets/39990",
   "Adult" : "$40.00 - $41.75"
@@ -363,11 +363,16 @@
   "URL" : "https://store.mopop.org/tickets/39990",
   "Adult" : "$34.75 - $35.75"
 }, {
-  "Date" : "2025-1-25 00:00:00",
+  "Date" : "2025-1-24 00:00:00",
   "Product" : "General Admission",
   "URL" : "https://store.mopop.org/packages/fixed/39992",
   "Adult" : "$26.75 - $27.75"
 },{
+  "Date" : "2025-1-25 00:00:00",
+  "Product" : "Full Special Exhibition Package",
+  "URL" : "https://store.mopop.org/tickets/39990",
+  "Adult" : "$40.00 - $41.75"
+}, {
   "Date" : "2025-1-25 00:00:00",
   "Product" : "Museum + Haring",
   "URL" : "https://store.mopop.org/packages/fixed/39992",
