@@ -1,0 +1,326 @@
+[ {
+  "Date" : "2024-09-04 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-09-11 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-09-18 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-09-25 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-10-02 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-10-09 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-10-16 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-10-23 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-10-24 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-10-30 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-11-06 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-11-13 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-11-20 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-11-27 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-11-28 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-12-04 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-12-11 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2024-12-25 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-01-08 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-01-15 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-01-22 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-01-29 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-02-05 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-02-12 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-02-19 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-02-26 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-03-05 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-03-12 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-03-19 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-03-26 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-04-02 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-04-09 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-04-16 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-04-23 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-04-30 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-05-07 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-05-14 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-05-21 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-09-03 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-09-10 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-09-17 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-09-24 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-10-01 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-10-08 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-10-15 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-10-22 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-10-23 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-10-29 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-11-25 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43158",
+  "Adult" : "$38.50"
+}, {
+  "Date" : "2025-11-26 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43159",
+  "Adult" : "$37.50"
+}, {
+  "Date" : "2025-11-27 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-11-28 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43161",
+  "Adult" : "$37.00"
+}, {
+  "Date" : "2025-11-29 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43162",
+  "Adult" : "$37.00"
+}, {
+  "Date" : "2025-11-30 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43163",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-01 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43164",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-02 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43165",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-03 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43166",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-04 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43167",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-05 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43168",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-06 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43169",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-07 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43170",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-08 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43171",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-09 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43172",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-10 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43173",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-11 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43174",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-12 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43175",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-13 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43176",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-14 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43177",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-15 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43178",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-16 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43179",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-17 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43180",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-18 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43181",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-19 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43182",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-20 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43183",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-21 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43184",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-22 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43185",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-23 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43186",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-24 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43187",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-25 00:00:00",
+  "Product" : "Museum Closed"
+}, {
+  "Date" : "2025-12-26 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43189",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-27 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43190",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-28 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43191",
+  "Adult" : "$36.50"
+}, {
+  "Date" : "2025-12-29 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43192",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-30 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43193",
+  "Adult" : "$35.00"
+}, {
+  "Date" : "2025-12-31 00:00:00",
+  "Product" : "General Admission",
+  "URL" : "https://store.mopop.org/tickets/43194",
+  "Adult" : "$35.00"
+} ]
